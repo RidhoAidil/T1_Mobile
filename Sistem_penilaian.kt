@@ -1,5 +1,8 @@
 fun main() {
-    println("===== SISTEM PENILAIAN =====\n")
+    println("Nama   : Muhammad Ridho AIdil Furqon")
+    println("NIM    : F1D02310127")
+    println("Kelas  : C")
+    println("\n===== SISTEM PENILAIAN =====\n")
     print("Masukkan Nama Mahasiswa: ")
     val nama = readLine()!!
     print("Masukkan Nilai UTS: ")
